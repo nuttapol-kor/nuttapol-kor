@@ -4,8 +4,8 @@
 - 📫 How to reach me **nuttapol.kor@ku.th**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttapol-kor&theme=vue&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuttapol-kor&show_icons=true&theme=vue&line_height=21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttapol-kor&theme=material-palenight&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuttapol-kor&show_icons=true&theme=material-palenight&line_height=21"/>
 </p>
 
 
