@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=nuttapol-kor&hide=stars&include_all_commits=true&show_icons=true&theme=material-palenight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttapol-kor&langs_count=8&layout=compact&theme=material-palenight" />
+</a>
+
 <!--
 **nuttapol-kor/nuttapol-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
