@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuttapol-kor&label=Profile%20views&color=0e75b6&style=flat" alt="nuttapol-kor" /> </p>
 
 - 📫 How to reach me **nuttapol.kor@ku.th**
+- ⚡ My portfolio website **https://nuttapol-kor.netlify.app/**
 
 
 <details>
